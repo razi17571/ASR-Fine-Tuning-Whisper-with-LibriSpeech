@@ -1,6 +1,4 @@
-```markdown
-# ASR Fine-Tuning Whisper with LibriSpeech
-
+## ASR Fine-Tuning Whisper with LibriSpeech
 This repository contains code for fine-tuning the Whisper model for Automatic Speech Recognition (ASR) using the LibriSpeech dataset.
 
 ## Table of Contents
@@ -23,8 +21,4 @@ pip install -r requirements.txt
 2. Fine-tune the Whisper model using the provided notebook.
 3. Evaluate the fine-tuned model on the test dataset.
 
-```
-
-```markdown
 To learn more about the Whisper model and the LibriSpeech dataset, read the [GeeksforGeeks article](https://www.geeksforgeeks.org/automatic-speech-recognition-using-whisper/).
-```
